@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center"><img src="https://i.pinimg.com/originals/aa/81/8f/aa818f7f7dbea41501bca1aeccb3079d.gif" /></p>
 
-<!--
-**oJPBarbosa/oJPBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello there 👋</h1>
 
-Here are some ideas to get you started:
+<h3>My name is João and I'm a high school student trying to build some cool stuff.<h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm currently working on my Open Source Colaborative Blog, [tmgb.vercel.app](https://tmgb.vercel.app/)
+- 🎯 I'm currently learning Web Development, SQL, C# and Arduino
+- 📮 You can contact me at Discord by using cocao#5522
+- ⚡ Fun fact: I ❤️✈️
+
+<h1 align="center">Languages 🖥️</h1>
+
+<p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojpbarbosa" /></p>
+
+<h1 align="center">Stats 📊</h1>
+
+<p align="center"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oJPBarbosa&show_icons=true" /></p>
