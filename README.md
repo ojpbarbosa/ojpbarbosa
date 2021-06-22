@@ -4,11 +4,14 @@
 
 <h3>My name is João and I'm a high school student trying to build some cool stuff.<h3>
 
-- 💻 I'm currently working on my Open Source Colaborative Blog, [tmgb.vercel.app](https://tmgb.vercel.app/)
-- 🎯 I'm currently learning Web Development, SQL, C# and Arduino
-- 📮 You can contact me at Discord by using cocao#5522
-- ⚡ Fun fact: I ❤️✈️
+<p align="left">
+- 💻 I'm currently working on my Discord Bot, [LAPA Bot](https://github.com/oJPBarbosa/lapa-bot).<br>
+- 🎯 I'm currently learning JavaScript and Node<br>
+- 📮 You can contact me at Discord by using coks#0001<br>
+- ⚡ Fun fact: I ❤️ ✈️  <br>
+<p>
+<br>
 
-<h1 align="center">Languages 🖥️</h1>
+<p align="left"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojpbarbosa&show_icons=true&layout=compact" /
 
-<p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojpbarbosa&show_icons=true&layout=compact" /></p>
+<p align="left"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=oJPBarbosa&show_icons=true&layout=compact" /></p>
