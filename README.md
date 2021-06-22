@@ -11,4 +11,4 @@
 
 <h1 align="center">Languages 🖥️</h1>
 
-<p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojpbarbosa&show_icons=true&layout=compact /></p>
+<p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojpbarbosa&show_icons=true&layout=compact" /></p>
