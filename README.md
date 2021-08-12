@@ -5,9 +5,9 @@
 <h3>My name is João and I'm a high school student trying to build some cool stuff.<h3>
 
 <p align="left">
-- 💻 I'm currently working on my Discord Bot<br>
+- 💻 I'm currently working on many things 🤪<br>
 - 🎯 I'm currently learning JavaScript and Node<br>
-- 📮 You can contact me at Discord by using coks#0001<br>
+- 📮 You can contact me at Discord by using coks#5522<br>
 - ⚡ Fun fact: I ❤️ ✈️  <br>
 <p>
 <br>
