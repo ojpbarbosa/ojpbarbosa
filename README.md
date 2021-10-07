@@ -1,12 +1,28 @@
-## Ayo 👋
-
-### Take a look at me:
-```json
+<!---
+🌌
+-->
+## Hey there, I am João 👋
+```js
 {
-    "name": "João Pedro",
-    "age": 15,
-    "location": "Campinas, São Paulo, Brazil",
-    "languages": [
+    age: 15,
+    location: "Campinas, São Paulo, Brazil",
+    tools: {
+        editor: {
+            name: "Visual Studio Code",
+            theme: "Omni",
+            icons: "Material"
+        },
+        os: "Windows 11"
+    },
+    interests: [
+        "Technology",
+        "Hardware",
+        "Software",
+        "Aviation️",
+        "Cosmology",
+        "..."
+    ],
+    languages: [
         "Node.js",
         "JavaScript",
         "Vue",
@@ -16,24 +32,10 @@
         "SQL",
         "C#",
         "Java",
-        "Arduino"
-    ],
-    "tools": {
-        "editor": {
-            "name": "Visual Studio Code",
-            "theme": "Omni",
-            "icons": "Material"
-        },
-        "os": "Windows 11"
-    },
-    "interests": [
-        "Aviation️",
-        "Space",
-        "Cosmos",
-        "Technology",
-        "Hardware",
-        "IT",
-        "..."
+        "Arduino",
+        "Git",
+        "GitHub",
+        "Heroku"
     ]
 } // Am I a JSON object? Perhaps an API endpoint response? ಥ_ಥ 
 ```
