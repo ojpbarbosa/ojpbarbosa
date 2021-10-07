@@ -1,9 +1,11 @@
 <!---
 🌌
 -->
+
 ## Hey there, I am João 👋
+
 ```js
-{
+const me = {
     age: 15,
     location: "Campinas, São Paulo, Brazil",
     tools: {
@@ -37,5 +39,5 @@
         "GitHub",
         "Heroku"
     ]
-} // Am I a JSON object? Perhaps an API endpoint response? ಥ_ಥ 
+} // ಥ_ಥ 
 ```
