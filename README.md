@@ -24,7 +24,7 @@
             "theme": "Omni",
             "icons": "Material"
         },
-        "os": "Windows 11",
+        "os": "Windows 11"
     },
     "interests": [
         "Aviation️",
@@ -34,6 +34,6 @@
         "Hardware",
         "IT",
         "..."
-    ],
+    ]
 } // Am I a JSON object? Perhaps an API endpoint response? ಥ_ಥ 
 ```
