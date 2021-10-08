@@ -39,5 +39,5 @@ const me = {
         "GitHub",
         "Heroku"
     ]
-} // ಥ_ಥ 
+}; // ಥ_ಥ 
 ```
