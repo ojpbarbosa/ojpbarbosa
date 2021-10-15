@@ -14,7 +14,7 @@ const me = {
             theme: "Omni",
             icons: "Material"
         },
-        os: "Windows 11"
+        os: "Windows 11 Home"
     },
     interests: [
         "Technology",
