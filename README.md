@@ -14,7 +14,14 @@ const me = {
             theme: "Omni",
             icons: "Material"
         },
-        os: "Windows 11 Home"
+        os: [
+          {
+              coding: "Ubuntu 20.04.03 LTS"
+          },
+          {
+              gaming: "Widows 11
+          }
+        ]
     },
     interests: [
         "Technology",
