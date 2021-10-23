@@ -19,7 +19,7 @@ const me = {
               coding: "Ubuntu 20.04.03 LTS"
           },
           {
-              gaming: "Widows 11
+              gaming: "Widows 11"
           }
         ]
     },
