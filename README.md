@@ -11,7 +11,7 @@ const me = {
     tools: {
         editor: {
             name: "Visual Studio Code",
-            theme: "Omni",
+            theme: "Dracula",
             icons: "Material"
         },
         os: [
