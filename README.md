@@ -19,7 +19,7 @@ const me = {
               coding: "Ubuntu 20.04.3 LTS"
           },
           {
-              gaming: "Windows 11"
+              gaming: "Windows 10 Home"
           }
         ]
     },
