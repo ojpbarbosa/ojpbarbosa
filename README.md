@@ -5,7 +5,7 @@
 ## Hey there, I am João 👋
 
 ```js
-const me = {
+var me = {
     age: 15,
     location: "Campinas, São Paulo, Brazil",
     tools: {
