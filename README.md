@@ -16,7 +16,7 @@ var me = {
         },
         os: [
           {
-              coding: "Ubuntu 20.04.3 LTS"
+              coding: "Pop!_OS 21.10"
           },
           {
               gaming: "Windows 10 Home"
