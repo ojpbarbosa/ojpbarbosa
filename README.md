@@ -51,6 +51,5 @@ const me = {
   ],
 };
 
-console.log(me);
-}; // ಥ_ಥ 
+console.log(me); // ಥ_ಥ
 ```
