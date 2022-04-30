@@ -15,7 +15,7 @@ const me = {
   tools: {
     editor: {
       name: 'Visual Studio Code',
-      theme: 'Dracula',
+      theme: 'Material Theme Ocean',
       icons: 'Material',
     },
     os: 'Windows 11 Pro',
@@ -27,21 +27,21 @@ const me = {
     'Aviation️',
     'Cosmology'
   ],
-  languagesAndTools: [
-    'Node.js',
+  languages: [
     'JavaScript',
     'TypeScript',
     'HTML',
     'CSS',
-    'Sass',
     'SQL',
     'C#',
     'Java',
     'Arduino',
+  ],
+  tools: [
     'Git',
     'GitHub',
     'Heroku',
-  ],
+  ]
 };
 
 console.log(me); // ಥ_ಥ
