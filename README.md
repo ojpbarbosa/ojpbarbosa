@@ -18,14 +18,7 @@ const me = {
       theme: 'Dracula',
       icons: 'Material',
     },
-    os: [
-      {
-        coding: 'Pop!_OS 21.10',
-      },
-      {
-        gaming: 'Windows 11 Pro',
-      },
-    ],
+    os: 'Windows 11 Pro',
   },
   interests: [
     'Technology',
