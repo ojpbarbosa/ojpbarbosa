@@ -3,7 +3,7 @@
 -->
 
 <samp>
-Hi, I am João. Technology and space fascinate me. Therefore, I like to /ˈstärˌɡāz/.
+Hi, I am João and I am fascinated by technology and space.
 <br />
 <br />
 — 🌌
